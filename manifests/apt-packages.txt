@@ -4,6 +4,7 @@ dash
 diffutils
 efibootmgr
 findutils
+gh
 git
 gnome-shell-extension-manager
 google-chrome-stable

@@ -1,0 +1,7 @@
+# Red de seguridad: nunca subir llaves/credenciales aunque terminen aquí por error
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+*.token
+.env
